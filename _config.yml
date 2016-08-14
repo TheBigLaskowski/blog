@@ -17,6 +17,10 @@ github_username:  thebiglaskowski
 gems:
   - jekyll-mentions
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jemoji
+  - github-pages
 
 # Build settings
 markdown: kramdown
