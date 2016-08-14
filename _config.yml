@@ -16,6 +16,7 @@ twitter_username: thebiglaskowski
 github_username:  thebiglaskowski
 gems:
   - jekyll-mentions
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
