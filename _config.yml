@@ -17,9 +17,3 @@ github_username:  thebiglaskowski
 
 # Build settings
 markdown: kramdown
-
-# My personal changes / additions
-gems:
-  - jekyll-paginate
-  - jekyll-mentions
-  - jekyll-seo-tag
