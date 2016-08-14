@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
+# Site settingss
 title: Joe laskowski
 email: joe.laskowski79@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -31,6 +31,6 @@ sass:
   # on a typical twitter bootstrap stats are :
   # nested 138,7kB, compact 129,1kB, expanded 135,9 kB, compressed 122,4 kB
   style: compressed
-  
+
 # Build settings
 markdown: kramdown
