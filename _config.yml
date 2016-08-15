@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settingss
-title: Joe laskowski
+title: Coder in the Corn
 email: joe.laskowski79@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  a place for my thoughts and things.
+  coding from the corn fields of Indiana, this is a place for my thoughts and things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://joelaskowski.me" # the base hostname & protocol for your site
 twitter_username: thebiglaskowski
