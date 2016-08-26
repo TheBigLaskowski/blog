@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settingss
+# Site settings
 title: Joe Laskowski
 subtitle: thebiglaskowski
 email: joe.laskowski79@gmail.com
@@ -25,3 +25,6 @@ gems:
 
 # Build settings
 markdown: kramdown
+
+# Pagination
+paginate: 5

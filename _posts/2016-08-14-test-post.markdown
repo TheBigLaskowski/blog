@@ -3,13 +3,34 @@ layout: post
 title:  "Test post"
 date:   2016-08-14 15:11:00 -0400
 categories: random
+author: jekyll
 ---
 
-{% include vimeo.html vimeo_id="179997194" %}
+# This will appear as h1
 
-Lorem ipsum dolor sit amet, @thebiglaskowski consectetur adipiscing elit. Nullam ultrices viverra tortor non luctus. Vivamus lectus sapien, ultrices vel convallis nec, sodales vitae ex. Donec semper diam ut velit dignissim, a fringilla massa efficitur. Curabitur dui nisl, imperdiet sed quam ornare, luctus gravida dui. Pellentesque lobortis dui eu odio pellentesque dapibus. Quisque non sodales dolor. In sapien tortor, consectetur in neque a, varius varius elit. Duis rhoncus neque orci, et convallis velit dictum id. Integer ac aliquet libero. Sed eu cursus ipsum. Curabitur elit est, fermentum quis magna sed, semper tincidunt felis.
+## This will appear as h2
+
+### This will appear as h3
+
+Lorem ipsum dolor **bold** sit amet, @thebiglaskowski consectetur __italic__ adipiscing elit. Nullam ultrices viverra tortor non luctus. Vivamus lectus sapien, ultrices vel convallis nec, sodales vitae ex. Donec semper diam ut velit dignissim, a fringilla massa efficitur. Curabitur dui nisl, imperdiet sed quam ornare, luctus gravida dui.
 
 
 {% include youtube.html youtube_id="iwcP6dAAffs" %}
 
-Lorem ipsum dolor sit amet, @thebiglaskowski consectetur adipiscing elit. Nullam ultrices viverra tortor non luctus. Vivamus lectus sapien, ultrices vel convallis nec, sodales vitae ex. Donec semper diam ut velit dignissim, a fringilla massa efficitur. Curabitur dui nisl, imperdiet sed quam ornare, luctus gravida dui. Pellentesque lobortis dui eu odio pellentesque dapibus. Quisque non sodales dolor. In sapien tortor, consectetur in neque a, varius varius elit. Duis rhoncus neque orci, et convallis velit dictum id. Integer ac aliquet libero. Sed eu cursus ipsum. Curabitur elit est, fermentum quis magna sed, semper tincidunt felis.
+Lorem ipsum dolor sit amet, @thebiglaskowski consectetur adipiscing elit. Nullam ultrices viverra tortor non luctus. Vivamus lectus sapien, ultrices vel convallis nec, sodales vitae ex. Donec semper diam ut velit dignissim, a fringilla massa efficitur. Curabitur dui nisl, imperdiet sed quam ornare, luctus gravida dui.
+
+{% include vimeo.html vimeo_id="179997194" %}
+
+* list item
+* list item
+* list item
+* list item
+
+1 number
+2 number
+3 number
+4 number
+
+![this is alt text for an image](/assets/yes.gif)
+
+here is a link to [Google](https://google.com)
