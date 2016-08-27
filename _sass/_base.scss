@@ -60,6 +60,13 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
+.img-circle {
+    border-radius: 50%;
+}
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
 /**
  * Figures
  */
@@ -77,10 +84,16 @@ ul {
     margin-left: $spacing-unit;
 }
 li {
-     > ul,
-    > ol {
+     > ol,
+    > ul {
         margin-bottom: 0;
     }
+}
+/**
+ * Contact Form
+ */
+#contact-form {
+  list-style: none;
 }
 /**
  * Headings
