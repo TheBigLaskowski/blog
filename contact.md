@@ -6,6 +6,6 @@ permalink: /contact/
 
 # Work Inquiries
 
-{% include contact-form.html %}
+I'm open to working on small projects currently. Feel free to submit a message I'd love to hear from you. 
 
-powered by [Formspree](https://formspree.io/)
+{% include contact-form.html %}
