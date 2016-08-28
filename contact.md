@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Send me a message
+# Work Inquiries
 
 {% include contact-form.html %}
 
