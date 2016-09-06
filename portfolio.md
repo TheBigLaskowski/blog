@@ -8,4 +8,5 @@ Obviously a work in progress... I have been working with content management syst
 
 
 * my [Hour of Code](/assets/hour-of-code-cert.jpg) certificate.
+* my [Free Code Camp](https://www.freecodecamp.com/thebiglaskowski) portfolio page.
 * Free Code Camp Tribute Page challenge: [CodePen](https://codepen.io/TheBigLaskowski/pen/dXZzkd) - [GitHub](https://thebiglaskowski.github.io/free-code-camp/tribute-page/).
