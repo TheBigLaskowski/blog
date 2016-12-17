@@ -43,7 +43,7 @@ sudo apt-get update && sudo apt-get install obs-studio
 Once you have OBS Studio installed all you have to do is add your audio output capture and the audio input capture in the source panel. These settings will use the default microphone and speaker selections in the PulseAudio panel.
 
 
-![obs-source-panel](/img/2016/12/obs-source-panel.png){: .center-image }
+![obs-source-panel-settings](/img/2016/12/obs-source-panel.png){: .center-image }
 
 
 That's it! Start recording and you are good to go. This works perfect with Skype, Hangouts and any other program that you require recording two way audio. I have mine set to minimize to the system tray where I can simply click on the indicator icon and start and stop recording when needed. Enjoy and if you have any questions leave a comment below the video on YouTube.
