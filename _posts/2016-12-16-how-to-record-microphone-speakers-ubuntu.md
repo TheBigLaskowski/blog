@@ -8,7 +8,7 @@ author: Joe Laskowski
 
 ![record microphone and speakers in ubuntu](/img/2016/12/record-mic-speaker-ubuntu.svg){: .center-image }
 
-On any given day I receive 20 to 50 phone calls. I utilize Google Hangouts on my desktop so I can work hands free. I previously used the program Audacity to record important phone calls. This required me to enable monitor mode in the Pulse Audio settings, as well as entering a few commands into the terminal to enable a loop back mode. This enabled a stereo mix, required so my microphone and speakers could work concurrently. This was not an ideal setup, and while speaking you can hear yourself talking, it made it difficult to hold a normal conversation.
+On any given day I receive 20 to 50 phone calls. I utilize Google Hangouts on my desktop so I can work hands free. I previously used the program Audacity to record important phone calls. This required me to enable monitor mode in the Pulse Audio settings, as well as entering a few commands into the terminal to enable a loop back mode. Together, these settings enabled a stereo mix, required so my microphone and speakers could work concurrently. This was not an ideal setup, and while speaking you can hear yourself talking, it made it difficult to hold a normal conversation.
 
 I recently upgraded my distro Xubuntu to the LTS version 16.04, and was hoping to find a new solution to record from the microphone and speakers simultaneously. A Google search for “Linux + stereo mix” eventually led me to discover a cross platform open source program called [Open Broadcaster Software Studio](https://obsproject.com/).
 
