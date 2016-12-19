@@ -3,6 +3,7 @@ layout: post
 title:  "Free Code Camp Tribute Page"
 date:   2016-08-20 01:15:11 -0400
 categories: code
+comments: true
 author: Joe Laskowski
 ---
 

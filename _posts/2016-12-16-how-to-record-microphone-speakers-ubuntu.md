@@ -3,6 +3,7 @@ layout: post
 title:  "How to Record Your Microphone and Speakers in Ubuntu 16.04"
 date:   2016-12-16 04:30:11 -0400
 categories: linux
+comments: true
 author: Joe Laskowski
 ---
 
